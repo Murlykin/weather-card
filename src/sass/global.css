@@ -1,0 +1,9 @@
+.container {
+  width: 100%;
+  margin: 0 auto;
+  padding-top: 0;
+  padding-bottom: 0;
+}
+.container body.locked {
+  overflow: hidden;
+}/*# sourceMappingURL=global.css.map */
